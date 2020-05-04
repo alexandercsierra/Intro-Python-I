@@ -84,5 +84,4 @@ d = {
 
 # How do you have to modify the f4 call below to make this work?
 
-# ?????? No idea what it wants me to do
-# f4(d)
+f4(**d)
